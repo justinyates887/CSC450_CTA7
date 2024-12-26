@@ -1,0 +1,21 @@
+# Visual Studio-specific files
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.vscode/
+*.sln
+*.ipch
+*.obj
+*.pch
+*.exe
+*.dll
+*.log
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.idb
+*.opendb
+*.tlog
